@@ -7,8 +7,6 @@ eQAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment
 oQAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment/controller/DatabaseManager.java,4\2\42f69a8f8680b919b0d65c6a90918831198138a2
 °
 qQAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment/controller/ClientsController.java,6\2\62d1a8ceb100b31e0d902956fcb73bdb77edca29
-]
--QAM2_AlternativeAssessment/src/main/readme.md,d\8\d8ae72b1061e3e82fa0c866f31add76e8a194f17
 °
 qQAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment/controller/DateTimeConverter.java,5\f\5fe8871a1d56281e98fc482a98f80f48da0eb7f7
 ü
@@ -27,3 +25,5 @@ bQAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment
 `QAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment/model/Style.java,0\f\0f42aa848e282d280507c900cfba9e96ac120d17
 è
 _QAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment/model/User.java,d\3\d3348b425154ffb78b109b8891a33ae54059e677
+]
+-QAM2_AlternativeAssessment/src/main/readme.md,d\8\d8ae72b1061e3e82fa0c866f31add76e8a194f17
