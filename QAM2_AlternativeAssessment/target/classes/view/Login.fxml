@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="310.0" prefWidth="493.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.qam2_alternativeassessment.controller.LoginController">
+    <children>
+      <Label fx:id="lblTitle" alignment="CENTER" layoutX="2.0" layoutY="14.0" prefHeight="30.0" prefWidth="493.0" text="Client Appointment Scheduler">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblUsername" layoutX="80.0" layoutY="89.0" text="Username" />
+      <TextField fx:id="id" layoutX="210.0" layoutY="83.0" prefHeight="25.0" prefWidth="200.0" />
+      <Label fx:id="lblPassword" layoutX="80.0" layoutY="135.0" text="Password" />
+      <TextField fx:id="password" layoutX="210.0" layoutY="129.0" prefHeight="25.0" prefWidth="200.0" />
+      <Label fx:id="lblLocation" layoutX="80.0" layoutY="179.0" text="Location" />
+      <Label fx:id="location" layoutX="210.0" layoutY="177.0" text="Location" />
+      <Button fx:id="btnLogin" layoutX="205.0" layoutY="216.0" mnemonicParsing="false" onAction="#login" prefHeight="25.0" prefWidth="99.0" text="Login" />
+      <Button fx:id="btnExit" layoutX="310.0" layoutY="216.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="99.0" text="Exit" />
+    </children>
+</AnchorPane>

@@ -1,0 +1,127 @@
+
+l
+java:S1192À"IDefine a constant instead of duplicating this literal "HH:mm:ss" 4 times.(Ò±èøÿÿÿÿ8ÕŞÜÒ1
+r
+java:S1192«"ODefine a constant instead of duplicating this literal "Auto Generated" 3 times.(Í›Ï”ÿÿÿÿÿ8×ŞÜÒ1
+p
+java:S1192Î"MDefine a constant instead of duplicating this literal "Thanksgiving" 4 times.(Øß¤Èûÿÿÿÿ8ØŞÜÒ1
+m
+java:S1192Á"ODefine a constant instead of duplicating this literal "America/Denver" 4 times.(½¢“ş8ØŞÜÒ1
+p
+java:S1192j"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 5 times.(óø‘u8ÙŞÜÒ1
+‘
+java:S1192„"nDefine a constant instead of duplicating this literal "Appointment has start time after the end time" 4 times.(Ğã„ûÿÿÿÿÿ8ÚŞÜÒ1
+‘
+java:S1192é"nDefine a constant instead of duplicating this literal "Appointment has start date after the end date" 3 times.(·ö‚şÿÿÿÿ8ÚŞÜÒ1
+M
+java:S1066İ"/Merge this if statement with the enclosing one.(áÌÌÂ8ßŞÜÒ1
+R
+java:S1066ç"/Merge this if statement with the enclosing one.(¥ã½‰úÿÿÿÿ8àŞÜÒ1
+R
+java:S1066ğ"/Merge this if statement with the enclosing one.(¥ã½‰úÿÿÿÿ8âŞÜÒ1
+R
+java:S1066ƒ"/Merge this if statement with the enclosing one.(æ–Ëıÿÿÿÿ8ãŞÜÒ1
+M
+java:S1066Ÿ"/Merge this if statement with the enclosing one.(áÌÌÂ8ãŞÜÒ1
+R
+java:S1066©"/Merge this if statement with the enclosing one.(¥ã½‰úÿÿÿÿ8ãŞÜÒ1
+R
+java:S1066½"/Merge this if statement with the enclosing one.(æ–Ëıÿÿÿÿ8ãŞÜÒ1
+j
+java:S3655×"LCall "result.isPresent()" or "!result.isEmpty()" before accessing the value.(ÃÇûŞ8ÓÏ÷‘1
+u
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 90 to the 15 allowed.(Ë¦ÙĞøÿÿÿÿ8ÚçÜÒ1
+a
+java:S1854À">Remove this useless assignment to local variable "formatter1".(Ò±èøÿÿÿÿ8İçÜÒ1
+S
+java:S6397®"5Replace this character class by the character itself.(Ä¾È¢8åçÜÒ1
+S
+java:S6397®"5Replace this character class by the character itself.(Ä¾È¢8åçÜÒ1
+S
+java:S6397®"5Replace this character class by the character itself.(Ä¾È¢8æçÜÒ1
+S
+java:S6397®"5Replace this character class by the character itself.(Ä¾È¢8æçÜÒ1
+S
+java:S6397®"5Replace this character class by the character itself.(Ä¾È¢8¢Êì‘1
+A
+java:S6396®"#Remove this unnecessary quantifier.(Ä¾È¢8æçÜÒ1
+A
+java:S6396®"#Remove this unnecessary quantifier.(Ä¾È¢8æçÜÒ1
+A
+java:S6396®"#Remove this unnecessary quantifier.(Ä¾È¢8æçÜÒ1
+A
+java:S6396®"#Remove this unnecessary quantifier.(Ä¾È¢8æçÜÒ1
+A
+java:S6396®"#Remove this unnecessary quantifier.(Ä¾È¢8æçÜÒ1
+Z
+java:S6353®"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ä¾È¢8ççÜÒ1
+Z
+java:S6353®"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ä¾È¢8ççÜÒ1
+Z
+java:S6353®"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ä¾È¢8ççÜÒ1
+Z
+java:S6353®"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ä¾È¢8ççÜÒ1
+Z
+java:S6353®"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ä¾È¢8ççÜÒ1
+Z
+java:S6353®"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ä¾È¢8ççÜÒ1
+C
+java:S1659í"&Declare "endHours" on a separate line.(ÎÙ³Q8äÏ÷‘1
+L
+java:S1874Ä".Remove this use of "getDay"; it is deprecated.(±‘Áê8üçÜÒ1
+Q
+java:S1874Å".Remove this use of "getDay"; it is deprecated.(í²°°øÿÿÿÿ8ıçÜÒ1
+^	java:S125Ç"<This block of commented-out lines of code should be removed.(¡­ÜØûÿÿÿÿ8ıçÜÒ1
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(»Ş÷Şøÿÿÿÿ8ëÏ÷‘1
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ìÏ÷‘1
+W
+java:S1117Ò"9Rename "alert" which hides the field declared at line 57.(ñß§‡8ïÏ÷‘1
+A
+java:S2119à"Save and re-use this "Random".(ÕØııúÿÿÿÿ8òÏ÷‘1
+u
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(ÌÌÍÌüÿÿÿÿ8óÏ÷‘1
+a
+java:S1854">Remove this useless assignment to local variable "formatter1".(Ò±èøÿÿÿÿ8óÏ÷‘1
+E
+java:S1481ƒ"'Remove this unused "ap" local variable.(êÎ²„8õÏ÷‘1
+C
+java:S1659¯"&Declare "endHours" on a separate line.(ÎÙ³Q8öÏ÷‘1
+L
+java:S1874”".Remove this use of "getDay"; it is deprecated.(±‘Áê8ÅèÜÒ1
+Q
+java:S1874•".Remove this use of "getDay"; it is deprecated.(í²°°øÿÿÿÿ8÷Ï÷‘1
+K	java:S108•")Either remove or fill this block of code.(í²°°øÿÿÿÿ8Ï‘…‘1
+[	java:S106À"9Replace this use of System.out or System.err by a logger.(»Ş÷Şøÿÿÿÿ8úÏ÷‘1
+[	java:S106à"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8üÏ÷‘1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8şÏ÷‘1
+H
+java:S1197¡"*Move the array designators [] to the type.(ŠıÅ‰8ìèÜÒ1
+H
+java:S1197¢"*Move the array designators [] to the type.(‰Á›Ä8€Ğ÷‘1
+k	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†§¤í8Ğ÷‘1
+p
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(†§¤í8‚Ğ÷‘1
+V
+java:S1854Ã"8Remove this useless assignment to local variable "ft11".(÷§¦¸8‚Ğ÷‘1
+W
+java:S1854Â"9Remove this useless assignment to local variable "month".(±ú÷Ø8ôèÜÒ1
+G
+java:S1481Ã")Remove this unused "ft11" local variable.(÷§¦¸8…Ğ÷‘1
+H
+java:S1197Ü"*Move the array designators [] to the type.(ŠıÅ‰8†Ğ÷‘1
+H
+java:S1197Ş"*Move the array designators [] to the type.(‰Á›Ä8†Ğ÷‘1
+‘
+java:S1130ı"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(„’ÿıÿÿÿÿ8ˆĞ÷‘1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ˆĞ÷‘1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ŠĞ÷‘1
+V	java:S106¾"9Replace this use of System.out or System.err by a logger.(ö¬8”Ğ÷‘1
+[	java:S106â"9Replace this use of System.out or System.err by a logger.(æÎîùÿÿÿÿ8—Ğ÷‘1
+r
+java:S5843®"TSimplify this regular expression to reduce its complexity from 22 to the 20 allowed.(Ä¾È¢8ÆéÜÒ1
+r
+java:S5843®"TSimplify this regular expression to reduce its complexity from 22 to the 20 allowed.(Ä¾È¢8ÈéÜÒ1
+ê
+java:S6541¡"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 117 to 64, Complexity from 39 to 14, Nesting Level from 6 to 2, Number of Variables from 23 to 6.(Ë¦ÙĞøÿÿÿÿ8ÉéÜÒ1
+ê
+java:S6541ø"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 104 to 64, Complexity from 34 to 14, Nesting Level from 5 to 2, Number of Variables from 22 to 6.(ÌÌÍÌüÿÿÿÿ8˜Ğ÷‘1

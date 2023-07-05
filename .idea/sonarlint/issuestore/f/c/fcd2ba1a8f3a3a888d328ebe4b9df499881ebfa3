@@ -1,0 +1,127 @@
+
+e
+java:S1192À"IDefine a constant instead of duplicating this literal "HH:mm:ss" 4 times.(Ò±žèøÿÿÿÿ
+k
+java:S1192«"ODefine a constant instead of duplicating this literal "Auto Generated" 3 times.(Í›Ï”ÿÿÿÿÿ
+i
+java:S1192Î"MDefine a constant instead of duplicating this literal "Thanksgiving" 4 times.(Øß¤Èûÿÿÿÿ
+f
+java:S1192Á"ODefine a constant instead of duplicating this literal "America/Denver" 4 times.(½¢“þ
+i
+java:S1192j"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 5 times.(óø‘u
+Š
+java:S1192„"nDefine a constant instead of duplicating this literal "Appointment has start time after the end time" 4 times.(Ðã„ûÿÿÿÿÿ
+Š
+java:S1192é"nDefine a constant instead of duplicating this literal "Appointment has start date after the end date" 3 times.(·ö‚þÿÿÿÿ
+F
+java:S1066Ý"/Merge this if statement with the enclosing one.(áÌÌÂ
+K
+java:S1066ç"/Merge this if statement with the enclosing one.(¥ã½‰úÿÿÿÿ
+K
+java:S1066ð"/Merge this if statement with the enclosing one.(¥ã½‰úÿÿÿÿ
+K
+java:S1066ƒ"/Merge this if statement with the enclosing one.(æ–Ëýÿÿÿÿ
+F
+java:S1066Ÿ"/Merge this if statement with the enclosing one.(áÌÌÂ
+K
+java:S1066©"/Merge this if statement with the enclosing one.(¥ã½‰úÿÿÿÿ
+K
+java:S1066½"/Merge this if statement with the enclosing one.(æ–Ëýÿÿÿÿ
+c
+java:S3655×"LCall "result.isPresent()" or "!result.isEmpty()" before accessing the value.(ÃÇûÞ
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 90 to the 15 allowed.(Ë¦ÙÐøÿÿÿÿ
+Z
+java:S1854À">Remove this useless assignment to local variable "formatter1".(Ò±žèøÿÿÿÿ
+L
+java:S6397®"5Replace this character class by the character itself.(Ä¾È¢
+L
+java:S6397®"5Replace this character class by the character itself.(Ä¾È¢
+L
+java:S6397®"5Replace this character class by the character itself.(Ä¾È¢
+L
+java:S6397®"5Replace this character class by the character itself.(Ä¾È¢
+L
+java:S6397®"5Replace this character class by the character itself.(Ä¾È¢
+:
+java:S6396®"#Remove this unnecessary quantifier.(Ä¾È¢
+:
+java:S6396®"#Remove this unnecessary quantifier.(Ä¾È¢
+:
+java:S6396®"#Remove this unnecessary quantifier.(Ä¾È¢
+:
+java:S6396®"#Remove this unnecessary quantifier.(Ä¾È¢
+:
+java:S6396®"#Remove this unnecessary quantifier.(Ä¾È¢
+S
+java:S6353®"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ä¾È¢
+S
+java:S6353®"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ä¾È¢
+S
+java:S6353®"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ä¾È¢
+S
+java:S6353®"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ä¾È¢
+S
+java:S6353®"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ä¾È¢
+S
+java:S6353®"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ä¾È¢
+<
+java:S1659í"&Declare "endHours" on a separate line.(ÎÙ³Q
+E
+java:S1874Ä".Remove this use of "getDay"; it is deprecated.(±‘Áê
+J
+java:S1874Å".Remove this use of "getDay"; it is deprecated.(í²°°øÿÿÿÿ
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(¡­ÜØûÿÿÿÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(»Þ÷Þøÿÿÿÿ
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+P
+java:S1117Ò"9Rename "alert" which hides the field declared at line 57.(ñß§‡
+:
+java:S2119à"Save and re-use this "Random".(ÕØýýúÿÿÿÿ
+n
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(ÌÌÍÌüÿÿÿÿ
+Z
+java:S1854">Remove this useless assignment to local variable "formatter1".(Ò±žèøÿÿÿÿ
+>
+java:S1481ƒ"'Remove this unused "ap" local variable.(êÎ²„
+<
+java:S1659¯"&Declare "endHours" on a separate line.(ÎÙ³Q
+E
+java:S1874”".Remove this use of "getDay"; it is deprecated.(±‘Áê
+J
+java:S1874•".Remove this use of "getDay"; it is deprecated.(í²°°øÿÿÿÿ
+D	java:S108•")Either remove or fill this block of code.(í²°°øÿÿÿÿ
+T	java:S106À"9Replace this use of System.out or System.err by a logger.(»Þ÷Þøÿÿÿÿ
+T	java:S106à"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+A
+java:S1197¡"*Move the array designators [] to the type.(ŠýÅ‰
+A
+java:S1197¢"*Move the array designators [] to the type.(‰Á›Ä
+d	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†§¤í
+i
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(†§¤í
+O
+java:S1854Ã"8Remove this useless assignment to local variable "ft11".(÷§¦¸
+P
+java:S1854Â"9Remove this useless assignment to local variable "month".(±ú÷Ø
+@
+java:S1481Ã")Remove this unused "ft11" local variable.(÷§¦¸
+A
+java:S1197Ü"*Move the array designators [] to the type.(ŠýÅ‰
+A
+java:S1197Þ"*Move the array designators [] to the type.(‰Á›Ä
+Š
+java:S1130ý"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(„’ÿýÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+T	java:S106ž"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(ö¬
+T	java:S106â"9Replace this use of System.out or System.err by a logger.(æÎîùÿÿÿÿ
+k
+java:S5843®"TSimplify this regular expression to reduce its complexity from 22 to the 20 allowed.(Ä¾È¢
+k
+java:S5843®"TSimplify this regular expression to reduce its complexity from 22 to the 20 allowed.(Ä¾È¢
+ã
+java:S6541¡"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 117 to 64, Complexity from 39 to 14, Nesting Level from 6 to 2, Number of Variables from 23 to 6.(Ë¦ÙÐøÿÿÿÿ
+ã
+java:S6541ø"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 104 to 64, Complexity from 34 to 14, Nesting Level from 5 to 2, Number of Variables from 22 to 6.(ÌÌÍÌüÿÿÿÿ

@@ -1,0 +1,12 @@
+
+L
+java:S1066k"/Merge this if statement with the enclosing one.(Õˆä¦8ùÇãœ‘1
+>
+java:S1643~"Use a StringBuilder instead.(À¥‚ßşÿÿÿÿ8ûÇãœ‘1
+s
+java:S1450-"QRemove the "db" field and declare it as a local variable in the relevant methods.(—Ğ¾˜øÿÿÿÿ8éÌãœ‘1
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(ö¬8şÌãœ‘1
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ˆÍãœ‘1
+V	java:S106œ"9Replace this use of System.out or System.err by a logger.(ö¬8›Íãœ‘1
+V	java:S106²"9Replace this use of System.out or System.err by a logger.(ö¬8 Íãœ‘1
+V	java:S106È"9Replace this use of System.out or System.err by a logger.(ö¬8¤Íãœ‘1

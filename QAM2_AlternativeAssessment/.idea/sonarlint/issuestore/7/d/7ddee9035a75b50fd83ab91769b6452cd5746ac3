@@ -1,0 +1,92 @@
+
+
+java:S1319Ñ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÏÇÌ;8¡è¢‘1
+“
+java:S1319ï"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ëª“†ıÿÿÿÿ8¢è¢‘1
+
+java:S1319‹"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ûÀÈ8¢è¢‘1
+
+java:S1319ç"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ú€ä8¢è¢‘1
+“
+java:S1319‰"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(£Û¥®şÿÿÿÿ8Íí¬‘1
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àóû±8£è¢‘1
+m	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»µ“ä8£è¢‘1
+m	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¡Š¹8£è¢‘1
+m	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘–Ÿ÷8£è¢‘1
+n	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ôÙÁ8£è¢‘1
+n	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÃƒ8£è¢‘1
+n	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»µ“ä8£è¢‘1
+n	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í´8£è¢‘1
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×‹Æ•8£è¢‘1
+s	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å·üÔøÿÿÿÿ8£è¢‘1
+l	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‚V8£è¢‘1
+n	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í´8¤è¢‘1
+n	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×‹Æ•8¤è¢‘1
+m	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¾Ñ28¤è¢‘1
+l	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‚V8¤è¢‘1
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í´8¤è¢‘1
+n	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×‹Æ•8¤è¢‘1
+n	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à·š8¤è¢‘1
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‚V8¤è¢‘1
+s	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ÷„ıÿÿÿÿ8¤è¢‘1
+s	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ÷„ıÿÿÿÿ8¤è¢‘1
+s	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿäƒúÿÿÿÿ8¤è¢‘1
+n	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßîİ£8¤è¢‘1
+n	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×‹Æ•8¤è¢‘1
+s	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö›®Éûÿÿÿÿ8¤è¢‘1
+l	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‚V8¥è¢‘1
+s	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ø¹şÿÿÿÿÿ8¥è¢‘1
+n	java:S117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×‹Æ•8¥è¢‘1
+n	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¯ı·8¥è¢‘1
+l	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‚V8¥è¢‘1
+s	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ´’Êıÿÿÿÿ8Òí¬‘1
+n	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßîİ£8¥è¢‘1
+n	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×‹Æ•8¥è¢‘1
+n	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã›Üı8¥è¢‘1
+l	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‚V8Òí¬‘1
+f
+java:S2095­"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ü…“„8¬Àãœ‘1
+m
+java:S2095‡"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(õë®ä8­Àãœ‘1
+r
+java:S2095»"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(§ÖûÌÿÿÿÿÿ8¬Àãœ‘1
+e
+java:S2095õ"GUse try-with-resources or close this "Statement" in a "finally" clause.(×‹Æ•8¦¾©‘1
+l
+java:S20957"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(»µ“ä8¬Àãœ‘1
+e
+java:S2095‘"GUse try-with-resources or close this "Statement" in a "finally" clause.(×‹Æ•8ş…¬‘1
+o
+java:S2095®"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îŞÀ‘ûÿÿÿÿ8¦¾©‘1
+e
+java:S2095š"GUse try-with-resources or close this "Statement" in a "finally" clause.(×‹Æ•8ş…¬‘1
+m
+java:S2095œ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(»µ“ä8¬Àãœ‘1
+e
+java:S2095×"GUse try-with-resources or close this "Statement" in a "finally" clause.(×‹Æ•8©¾©‘1
+e
+java:S2095í"GUse try-with-resources or close this "Statement" in a "finally" clause.(×‹Æ•8ò¬‘1
+l
+java:S2095g"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(æª¢ç8¬Àãœ‘1
+e
+java:S2095Ì"GUse try-with-resources or close this "Statement" in a "finally" clause.(×‹Æ•8¬Àãœ‘1
+l
+java:S2095R"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¹¦ƒõ8¬Àãœ‘1
+X
+java:S6437$"6Revoke and change this password, as it is compromised.(Á–ã¥ùÿÿÿÿ8üÀãœ‘1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ÿÀãœ‘1
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8•Áãœ‘1
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Áãœ‘1
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8«Áãœ‘1
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8°Áãœ‘1
+[	java:S106–"9Replace this use of System.out or System.err by a logger.(ÀÍğÃÿÿÿÿÿ8²Áãœ‘1
+[	java:S106ª"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8¿Áãœ‘1
+V	java:S106´"9Replace this use of System.out or System.err by a logger.(«ñ¡©8ÃÁãœ‘1
+[	java:S106É"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ÏÁãœ‘1
+[	java:S106ä"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Á¾©‘1
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Ğ¾©‘1
+[	java:S106œ"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Õ¾©‘1
+[	java:S106¼"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Ú¾©‘1
+[	java:S106Ş"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8‘†¬‘1
+[	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8¥ò¬‘1
+[	java:S106¤"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8§ò¬‘1

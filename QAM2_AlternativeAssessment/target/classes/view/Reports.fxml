@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="721.0" prefWidth="1094.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.qam2_alternativeassessment.controller.ReportsController">
+   <children>
+      <Label layoutX="474.0" layoutY="14.0" text="Appointment Report">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Label>
+      <TableView fx:id="tableAppointmentTypeAndMonth" layoutX="22.0" layoutY="119.0" prefHeight="119.0" prefWidth="489.0">
+        <columns>
+          <TableColumn fx:id="month" prefWidth="127.99996948242188" text="Month" />
+          <TableColumn fx:id="appType" prefWidth="248.0" text="Appointment Type" />
+            <TableColumn fx:id="count" prefWidth="111.0" text="Count" />
+        </columns>
+      </TableView>
+      <Label layoutX="22.0" layoutY="84.0" prefHeight="20.0" prefWidth="489.0" text="Total number of Appointments by Type and Month">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="25.0" layoutY="449.0" text="Appointment Schedules by Style">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="25.0" layoutY="489.0" text="Style" />
+      <ComboBox fx:id="styleCombo" layoutX="126.0" layoutY="485.0" onAction="#styleSelection" prefHeight="25.0" prefWidth="172.0" />
+      <TableView fx:id="table3" layoutX="25.0" layoutY="523.0" prefHeight="134.0" prefWidth="1045.0">
+         <columns>
+            <TableColumn fx:id="appointmentIDCol" prefWidth="120.0" text="Appointment ID" />
+            <TableColumn fx:id="titleCol" prefWidth="92.0" text="Title" />
+            <TableColumn fx:id="typeCol" prefWidth="209.0" text="Type" />
+            <TableColumn fx:id="descriptionCol" prefWidth="132.0" text="Description" />
+            <TableColumn fx:id="startDateCol" prefWidth="159.0" text="Start Date&amp; Time" />
+            <TableColumn fx:id="endDateCol" prefWidth="181.0" text="End Date&amp;Time" />
+            <TableColumn fx:id="clientIDCol" prefWidth="142.0" text="CLient ID" />
+         </columns>
+      </TableView>
+      <Label layoutX="22.0" layoutY="263.0" text="Clients Status">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+      <TableView fx:id="table2" layoutX="24.0" layoutY="298.0" prefHeight="134.0" prefWidth="489.0">
+         <columns>
+            <TableColumn fx:id="serialCol3" prefWidth="112.0" text="S. No" />
+            <TableColumn fx:id="monthCol3" prefWidth="167.0" text="Status" />
+            <TableColumn fx:id="numCol3" prefWidth="208.0" text="Number of Clients" />
+         </columns>
+      </TableView>
+      <Button layoutX="955.0" layoutY="674.0" mnemonicParsing="false" onAction="#navigateBack" prefHeight="33.0" prefWidth="108.0" text="Back to Menu" />
+   </children>
+</AnchorPane>
