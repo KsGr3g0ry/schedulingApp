@@ -1,5 +1,1 @@
-Attempt No: 1, Date Time: 2023:07:01 06:51:07 PM CDT, Password Used: Passw0rd!, Status: Login Failed
-Attempt No: 2, Date Time: 01/07/2023 06:51:07 PM CDT, Password Used: altPSW, Status: Login Successful
-Attempt No: 1, Date Time: 01/07/2023 06:53:41 PM CDT, Password Used: altPSW, Status: Login Successful
-Attempt No: 1, Date Time: 01/07/2023 06:54:47 PM CDT, Password Used: altPSW, Status: Login Successful
-Attempt No: 1, Date Time: 01/07/2023 06:56:13 PM CDT, Password Used: altPSW, Status: Login Successful
+
