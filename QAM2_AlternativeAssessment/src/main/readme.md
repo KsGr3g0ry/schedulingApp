@@ -2,7 +2,7 @@
 
 ## Class Project
 * SOFTWARE II - ADVANCED JAVA CONCEPTS — C195
-* Version 2.0
+* Version 2.1
 * GUI-based scheduling desktop application
 
 
