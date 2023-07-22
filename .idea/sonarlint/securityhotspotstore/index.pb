@@ -1,16 +1,12 @@
 
 j
 :.idea/dataSources/be1b291d-ee38-43ad-990f-22bc6d72bc0b.xml,b\4\b4e2bed64ac8f5dd0c1457dd98a6ca6ce120de7c
-ï
-eQAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment/ClientScheduling.java,1\c\1c513ff4b9264e13f771c350608050b420412769
 ü
 oQAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment/controller/DatabaseManager.java,4\2\42f69a8f8680b919b0d65c6a90918831198138a2
 °
 qQAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment/controller/ClientsController.java,6\2\62d1a8ceb100b31e0d902956fcb73bdb77edca29
 °
 qQAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment/controller/DateTimeConverter.java,5\f\5fe8871a1d56281e98fc482a98f80f48da0eb7f7
-ü
-oQAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment/controller/LoginController.java,f\4\f4894af5563da9b4c7076b90ae7190b4276a5102
 ¢
 rQAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment/controller/MainMenuController.java,0\4\040768acf949764e4be647343dd220ffd4405cf0
 °
@@ -25,5 +21,9 @@ bQAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment
 `QAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment/model/Style.java,0\f\0f42aa848e282d280507c900cfba9e96ac120d17
 è
 _QAM2_AlternativeAssessment/src/main/java/com/example/qam2_alternativeassessment/model/User.java,d\3\d3348b425154ffb78b109b8891a33ae54059e677
-]
--QAM2_AlternativeAssessment/src/main/readme.md,d\8\d8ae72b1061e3e82fa0c866f31add76e8a194f17
+7
+log.txt,8\9\89dbeb08d7aa865d748d706c1d17ee94f6f82ba7
+U
+%QAM2_AlternativeAssessment/.gitignore,b\4\b40c044b90a326049e96ce8fba206c44943b6721
+R
+"QAM2_AlternativeAssessment/log.txt,0\3\034b3863836748f90ad6bc31242d437e82cf8ce4

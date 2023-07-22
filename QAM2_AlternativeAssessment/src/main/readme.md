@@ -1,7 +1,10 @@
 
 
 ## Class Project
-SOFTWARE II - ADVANCED JAVA CONCEPTS — C195
+* SOFTWARE II - ADVANCED JAVA CONCEPTS — C195
+* Version 2.0
+* GUI-based scheduling desktop application
+
 
 ## Project Summary
 * The program's goal is to create a desktop GUI-based scheduling tool that will act as the consulting company's 

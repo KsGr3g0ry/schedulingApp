@@ -77,9 +77,13 @@ public class LoginController implements Initializable {
         try {
 
             Locale locale = Locale.getDefault();
-            Locale.setDefault(locale);
+           Locale.setDefault(locale);
+           // System.out.println(locale.getLanguage());
+          //  Locale.setDefault(new Locale("SP"));
 
             rb = ResourceBundle.getBundle("language/login", Locale.getDefault());
+            if (Locale.getDefault().getLanguage().equals("en") || Locale.getDefault().getLanguage().equals("ES"))
+                System.out.println(rb.getString("Login") + " " + rb.getString("title"));
 
             lblTitle.setText(rb.getString("title"));
             lblUsername.setText(rb.getString("username"));
