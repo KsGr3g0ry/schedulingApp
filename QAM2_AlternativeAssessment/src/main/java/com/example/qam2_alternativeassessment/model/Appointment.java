@@ -13,6 +13,7 @@ package com.example.qam2_alternativeassessment.model;
  */
 public class Appointment {
 
+
     /**
      * Declaring Class Attributes
      */
@@ -51,6 +52,8 @@ public class Appointment {
         this.clientID = clientID;
         this.style = style;
     }
+
+
 
     /**
      * this is a getter for AppointmentID

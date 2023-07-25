@@ -1,14 +1,17 @@
 ## Class Project
-SOFTWARE II - ADVANCED JAVA CONCEPTS — C195
+* SOFTWARE II - ADVANCED JAVA CONCEPTS — C195
+* Version 2.1
+* GUI-based scheduling desktop application
+
 
 ## Project Summary
-* The program's goal is to create a desktop GUI-based scheduling tool that will act as the consulting company's 
-worldwide scheduling assistant. It seeks to offer effective scheduling skills, while also functioning across 
-several locations and meeting the organization's numerous linguistic requirements.
+* The program's goal is to create a desktop GUI-based scheduling tool that will act as the consulting company's
+  worldwide scheduling assistant. It seeks to offer effective scheduling skills, while also functioning across
+  several locations and meeting the organization's numerous linguistic requirements.
 
 ## Author
 * Name: Gregory Brothers
-* Date: 1 July 2023
+* Date: 21 July 2023
 * Email: gbrothe@wgu.edu
 
 ## IDE Information
@@ -23,4 +26,3 @@ several locations and meeting the organization's numerous linguistic requirement
 
 ## MQSQL
 * mysql-connector-java-8.0.21
-

@@ -9,10 +9,11 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
-import com.example.qam2_alternativeassessment.model.Appointment;
-import com.example.qam2_alternativeassessment.model.Client;
-import com.example.qam2_alternativeassessment.model.Style;
-import com.example.qam2_alternativeassessment.model.User;
+
+import com.example.qam2_alternativeassessment.model.*;
+import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
+
 import static com.example.qam2_alternativeassessment.controller.DateTimeConverter.convertTimeDateLocal;
 
 /**
@@ -319,37 +320,35 @@ public class DatabaseManager {
 
     /**
      *
-     * @param ID give Appointment-ID to get Appointment object accordingly
      * @return specific appointment detail
      */
-    public Appointment getAppointment(int ID) {
+    public ObservableList<Reports> getWeeklyAppointment() {
 
         Appointment appointment = null;
+        ObservableList<Reports> weeklyAppointments = FXCollections.observableArrayList();
         ArrayList<Style> styles = getStyles();
         try {
 
             Connection Con = getConnection();       //establish database connection
             Statement St = Con.createStatement();
-            String Query = "Select * from  appt where idappt='" + ID + "'";   //create query
-            ResultSet RS = St.executeQuery(Query);
-            if (RS.next()) {        //if appointment with provided appointment id exists
-                //store detail in appointment object
-                Style style = null;
-                for (Style s : styles) {
-                    if (s.getId() == RS.getInt(9)) {
-                        style = s;
-                        break;
-                    }
+            //String Query = "Select * from  appt where idappt='" + ID + "'";   //create query
+            String weekReport =  "Select count(idappt) as total, type, week(start) as week from appt group by type, week";
+            ResultSet RS = St.executeQuery(weekReport);
+            while (RS.next()) {        //if appointment with provided appointment id exists
+                int total = RS.getInt("total");
+                String type = RS.getString("type");
+                int week = RS.getInt("week");
+
+                Reports reports1 = new Reports(week, type, total);
+                weeklyAppointments.add(reports1);
                 }
-                appointment = new Appointment(RS.getInt(1), RS.getString(2), RS.getString(3),
-                        RS.getString(4), RS.getString(5), convertTimeDateLocal(RS.getString(6)),
-                        convertTimeDateLocal(RS.getString(7)), RS.getInt(8), style);
-            }
+
+
             Con.close();        //close connection
         } catch (Exception e) {
             System.out.println(e);
         }
-        return appointment;     //return appointment object with details
+        return weeklyAppointments;     //return appointment object with details
     }
 
     /**

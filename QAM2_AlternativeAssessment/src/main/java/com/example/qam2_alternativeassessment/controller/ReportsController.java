@@ -35,11 +35,17 @@ import com.example.qam2_alternativeassessment.model.Style;
  */
 public class ReportsController implements Initializable {
 
+    @FXML
+    public TableView<Reports> tableAppointmentTypeAndWeek;
+    public TableColumn<Reports, Integer> week;
+    public TableColumn<Reports,String> weekAppt;
+    public TableColumn<Reports, Integer> weekCount;
     String id;
     ArrayList<Style> styles;
     ArrayList<Appointment> appointments;
     private DatabaseManager db;
     DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
+
 
     @FXML
     private TableView<Reports> tableAppointmentTypeAndMonth;
@@ -100,12 +106,18 @@ public class ReportsController implements Initializable {
         appType.setCellValueFactory(new PropertyValueFactory<>("str2"));
         count.setCellValueFactory(new PropertyValueFactory<>("counter"));
 
+        week.setCellValueFactory(new PropertyValueFactory<>("week"));
+        weekAppt.setCellValueFactory(new PropertyValueFactory<>("type"));
+        weekCount.setCellValueFactory(new PropertyValueFactory<>("total"));
+
         serialCol3.setCellValueFactory(new PropertyValueFactory<>("str1"));
         monthCol3.setCellValueFactory(new PropertyValueFactory<>("str2"));
         numCol3.setCellValueFactory(new PropertyValueFactory<>("counter"));
 
+
         try {
             showAppointmentsByTypesAndMonth();
+            tableAppointmentTypeAndWeek.setItems(db.getWeeklyAppointment());
             showActiveInactiveClients();
         } catch (Exception e) {
             System.out.println(e);

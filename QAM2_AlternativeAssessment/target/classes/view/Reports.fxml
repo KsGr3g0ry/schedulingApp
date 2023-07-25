@@ -8,7 +8,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane id="AnchorPane" prefHeight="721.0" prefWidth="1094.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.qam2_alternativeassessment.controller.ReportsController">
+<AnchorPane id="AnchorPane" prefHeight="721.0" prefWidth="1094.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.qam2_alternativeassessment.controller.ReportsController">
    <children>
       <Label layoutX="474.0" layoutY="14.0" text="Appointment Report">
          <font>
@@ -22,7 +22,14 @@
             <TableColumn fx:id="count" prefWidth="111.0" text="Count" />
         </columns>
       </TableView>
-      <Label layoutX="22.0" layoutY="84.0" prefHeight="20.0" prefWidth="489.0" text="Total number of Appointments by Type and Month">
+      <TableView fx:id="tableAppointmentTypeAndWeek" layoutX="547.0" layoutY="119.0" prefHeight="119.0" prefWidth="489.0">
+         <columns>
+            <TableColumn fx:id="week" prefWidth="127.99996948242188" text="Week" />
+            <TableColumn fx:id="weekAppt" prefWidth="248.0" text="Appointment Type" />
+            <TableColumn fx:id="weekCount" prefWidth="111.0" text="Count" />
+         </columns>
+      </TableView>
+      <Label layoutX="547.0" layoutY="88.0" prefHeight="20.0" prefWidth="489.0" text="Total number of Appointments by Type and Week">
          <font>
             <Font name="System Bold" size="14.0" />
          </font>
@@ -58,5 +65,10 @@
          </columns>
       </TableView>
       <Button layoutX="955.0" layoutY="674.0" mnemonicParsing="false" onAction="#navigateBack" prefHeight="33.0" prefWidth="108.0" text="Back to Menu" />
+      <Label layoutX="34.0" layoutY="98.0" prefHeight="20.0" prefWidth="489.0" text="Total number of Appointments by Type and Month">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
    </children>
 </AnchorPane>

@@ -6,11 +6,39 @@ package com.example.qam2_alternativeassessment.model;
  */
 public class Reports {
 
+    private int total;
+    private String type;
+    private int week;
     /**
      * Declaring Class Attributes
      */
     private String str1;
     private String str2;
+
+    public int getTotal() {
+        return total;
+    }
+
+    public void setTotal(int total) {
+        this.total = total;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public int getWeek() {
+        return week;
+    }
+
+    public void setWeek(int week) {
+        this.week = week;
+    }
+
     private int counter;
 
     /**
@@ -24,6 +52,11 @@ public class Reports {
         this.str1 = str1;
         this.str2 = str2;
         this.counter = counter;
+    }
+    public Reports(int week, String type, int total) {
+        this.week = week;
+        this.type = type;
+        this.total = total;
     }
 
     /**
