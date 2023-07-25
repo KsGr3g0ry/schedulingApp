@@ -17,7 +17,3 @@ U
 %QAM2_AlternativeAssessment/.gitignore,b\4\b40c044b90a326049e96ce8fba206c44943b6721
 R
 "QAM2_AlternativeAssessment/log.txt,0\3\034b3863836748f90ad6bc31242d437e82cf8ce4
-]
--QAM2_AlternativeAssessment/src/main/readme.md,d\8\d8ae72b1061e3e82fa0c866f31add76e8a194f17
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
